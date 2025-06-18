@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+💡 Luxtronix
+Luxtronix is a sleek and intuitive React Native shopping app built with Expo. Designed for a seamless user experience, it allows users to explore products, manage their shopping cart, log in or sign up securely, and personalize their profile. With an elegant interface and smooth navigation, Luxtronix brings luxury to fingertips.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+✨ Features
+🔐 Secure Authentication (Login & Sign Up)
 
-## Get started
+🛍️ Product Browsing with Images and Details
 
-1. Install dependencies
+🛒 Add to Cart / Remove from Cart
 
-   ```bash
-   npm install
-   ```
+👤 User Profile Management
 
-2. Start the app
+🚪 Logout Functionality
 
-   ```bash
-   npx expo start
-   ```
+⚡ Fast Navigation with Expo Router
 
-In the output, you'll find options to open the app in a
+🎨 Clean & Responsive UI
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+💾 AsyncStorage for Persistent Cart (Coming soon)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+🌙 Dark Mode support (Planned)
 
-## Get a fresh project
+📱 App Screenshots
+Home Screen :
+![WhatsApp Image 2025-06-18 at 10 10 15_837421e3](https://github.com/user-attachments/assets/916f9b15-685f-45f7-80cb-41d09a74252b)
 
-When you're ready, run:
+Login Screen:
+![WhatsApp Image 2025-06-18 at 10 10 16_cab1485a](https://github.com/user-attachments/assets/31924757-539a-435d-92fc-e75178ebb967)
 
-```bash
-npm run reset-project
-```
+Sign up Screen:
+![WhatsApp Image 2025-06-18 at 10 13 28_5e785c1c](https://github.com/user-attachments/assets/cf54db66-28eb-4ec6-a508-c0bb51ef596f)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Logout Screen:
+![WhatsApp Image 2025-06-18 at 10 13 29_1b6d16d4](https://github.com/user-attachments/assets/6a5280b1-adda-48f5-9586-cbd661dd83be)
 
-## Learn more
+product details Screen :
+![WhatsApp Image 2025-06-18 at 10 10 16_24459a95](https://github.com/user-attachments/assets/1e9abad0-6e2a-46da-8258-09d552c1ddf1)
 
-To learn more about developing your project with Expo, look at the following resources:
+Add to cart Screen:
+![WhatsApp Image 2025-06-18 at 10 10 17_4b4cf249](https://github.com/user-attachments/assets/1bdfb63a-3eec-4173-9df3-53169be43f03)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Profile Screen:
+![WhatsApp Image 2025-06-18 at 10 10 17_8745981a](https://github.com/user-attachments/assets/22333f1d-35dc-4ea9-911a-55acfc3fa455)
 
-## Join the community
+Explore Screen:
+![WhatsApp Image 2025-06-18 at 10 10 17_dd19f5e8](https://github.com/user-attachments/assets/4ce2ac7f-ad3b-4510-8764-178803ad7401)
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
